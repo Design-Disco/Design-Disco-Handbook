@@ -1,4 +1,13 @@
 # Staff Onboarding
+
+{ how people may apply and what they need to know when they join }
+
+
+
+
+
+**Loomio's example bellow:**
+
 Once the decision has been made to hire someone through the hiring process, they will need to be on-boarded into the cooperative. Here's a checklist to help you go through that process.
 
 **Gather the Required Employee Information**
@@ -6,7 +15,7 @@ Once the decision has been made to hire someone through the hiring process, they
 1. Confirmation of your right to work in New Zealand by providing a scan/copy of work or residence visas. 
 2. IRD number
 3. IRD Tax code - Working out tax code
-4. Full name (including middle name)
+4. Full name \(including middle name\)
 5. Address and telephone number, cellphone
 6. Kiwisaver - rate other than standard 3%?
 7. Date of birth
@@ -17,11 +26,10 @@ Once the decision has been made to hire someone through the hiring process, they
 **Confirm Work and Remuneration Details**
 
 * Hours/days of work
-* Pay (amount and payroll process)
+* Pay \(amount and payroll process\)
 * Annual leave and sick leave
 * Loomio Points
 * Ensure employment contract has been signed
-
 
 **Loomio Cooperative Orientation**
 
@@ -34,15 +42,14 @@ Once the decision has been made to hire someone through the hiring process, they
 * Retreats and Away Days
 * Relationship to Enspiral
 * Employment policy & process development
-* Communications culture (online and offline)
+* Communications culture \(online and offline\)
 * Conflict resolution process
 * Intro to agile sprint process
 * Annual and Quarterly plan
 
 **Tools**
 
-
-*Introduction, access, and logins*
+_Introduction, access, and logins_
 
 General tools:
 
@@ -63,10 +70,6 @@ Plus and role or team-specific tools
 * Introduction to working group or sub-team processes
 * Who will they work alongside while they get up to speed? Who should they go to with daily questions?
 * Plan for their first set of tasks or projects
-
-
-
-
 
 
 
