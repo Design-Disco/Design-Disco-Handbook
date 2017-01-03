@@ -1,11 +1,12 @@
-## The Loomio Co-op Handbook
+## The Design Disco Handbook
 
+Here are notes, links and an intro to writing an Open Source handbook.
 
-<img src='loomio-phone.png' class='img-right img-250px'>
+Why Open Source?
 
-The software we build is [open source](http://github.com/loomio/loomio), and our organisation is open source too. This handbook is where we document how we run an efficient organisation without a hierarchy.
+Collective knowledge is greater than that of any invidividual. People who write rules are more likely to follow them. People who do not follow rules usually have a reason and it is always worth finding that out. When you give people the oportunity to be responsible they will rise to the ocasion. And an open Handbook can constantly change and evolve so that it does not become stale and outdated.
 
-We build software for collaborative decision making, used by thousands of organisations and communities around the world. If you’re looking for a way to make group decisions without meeting, try it out at [loomio.org](https://www.loomio.org?utm_campaign=handbook&utm_source=handbook).
+"How we see people is how we treat them, and how we treat them is who they become" -Johann Wolfgang von Goethe
 
 ---
 
@@ -32,11 +33,7 @@ Feel free to contact [@richdecibels](https://twitter.com/richdecibels) on Twitte
 
 ## About this handbook
 
-If you find this handbook helpful in your work, please [let us know](https://loomio.org/contact). We'd love to hear from you. 🐌
-
-The handbook was [discussed on Hacker News](https://news.ycombinator.com/item?id=12348909). The comment thread is a good source of further FAQ style information.
-
-You can find the code [on Github](https://github.com/loomio/loomio-coop-handbook), and download the handbook in different formats [from Gitbook](https://www.gitbook.com/book/loomio/loomio-cooperative-handbook/details).
+If you find this handbook helpful in your work, please [let us know](hello@designdis.co). We'd love to hear from you. 🐌
 
 <img src="https://i.creativecommons.org/l/by-sa/3.0/88x31.png" class="img-right" alt="Creative Commons License" />
 

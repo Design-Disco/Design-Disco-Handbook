@@ -1,5 +1,11 @@
 # Coordination at Loomio
 
+{ also good for us to have a coordination section maybe }
+
+
+
+
+
 ## Context
 
 As a worker-owned cooperative committed to decentralising decision-making, Loomio does not have a traditional managerial hierarchy. However, a big picture perspective of how all the parts of the organisation and different work areas fit together, and how they intersect with the budget and longer term strategy, is essential to operational effectiveness and overall success of our mission. At Loomio, this role is called a Coordinator.
@@ -8,7 +14,7 @@ Our guiding principle for coordination is **"dynamic hierarchies by consent"**.
 
 **"Hierarchies"**, because we mandate certain people and roles with certain power and responsibility, to perform functions the co-op decides are needed. It’s plural because there is no one hierarchy, but multiple ones we create to suit specific purposes.
 
-**"Dynamic"**, because these roles and internal structures are constantly evolving. We adapt them to meet the co-op’s needs responsively. Individuals rotate in and out of roles regularly. Internal structures are always up for discussion. We review all roles at least quarterly (although they may change less frequently).
+**"Dynamic"**, because these roles and internal structures are constantly evolving. We adapt them to meet the co-op’s needs responsively. Individuals rotate in and out of roles regularly. Internal structures are always up for discussion. We review all roles at least quarterly \(although they may change less frequently\).
 
 **"Consent"**, because ultimately all mandate and power traces back to the co-op membership - in others words, all of us together.
 
@@ -36,15 +42,15 @@ Mutually agreed structure for our work helps us to be more productive and happie
 
 ### Role Policies
 
-* There are at least 2 coordinators at any given time (never a single person)
+* There are at least 2 coordinators at any given time \(never a single person\)
 
 * Coordinators need to be Co-op Members
 
 * Coordinators check in with each other regularly, balancing their workload and decision-making together
 
-* Coordinators think and act specifically from their perspective as coordinators (as opposed to their other identities like Member or Director)
+* Coordinators think and act specifically from their perspective as coordinators \(as opposed to their other identities like Member or Director\)
 
-* Coordinators have a coach or mentor (separate from their steward as a Member) - this role is often held by the Chair of the Board
+* Coordinators have a coach or mentor \(separate from their steward as a Member\) - this role is often held by the Chair of the Board
 
 Entry
 
@@ -52,15 +58,15 @@ Entry
 
 * Selected for servant leadership skills, management experience, operational reliability, strategic thinking,  and long standing as a co-op member
 
-* Onboarded and trained by existing coordinators (overlap between new and experienced coordinators helps maintain continuity)
+* Onboarded and trained by existing coordinators \(overlap between new and experienced coordinators helps maintain continuity\)
 
-* Members are invited to express interest in taking up the coordinator role at any time, but rotating in is taken slowly (to ensure operational consistency)
+* Members are invited to express interest in taking up the coordinator role at any time, but rotating in is taken slowly \(to ensure operational consistency\)
 
 Exit
 
 * We ask coordinators to give as much notice as possible when they are thinking of moving out of the role, to minimise the risk of disruption
 
-* Can be requested to step down by Members or the Board, or removed by a Member decision meeting the requirements of a special resolution (as defined in the constitution)
+* Can be requested to step down by Members or the Board, or removed by a Member decision meeting the requirements of a special resolution \(as defined in the constitution\)
 
 ### Coordinator Responsibilities
 
@@ -70,112 +76,111 @@ Please note that "responsibility" means the coordinator is expected to make sure
 
 * Staffing decisions and hiring
 
-    * Hire project-based short term contractors directly (people not stepping onto the membership pathway)
+  * Hire project-based short term contractors directly \(people not stepping onto the membership pathway\)
 
-    * Hire long term employees with an employment panel (for people who are potentially stepping onto membership pathway)
+  * Hire long term employees with an employment panel \(for people who are potentially stepping onto membership pathway\)
 
 * Employment responsibilities
 
-    * New staff onboarding
+  * New staff onboarding
 
-    * Employment contracts (named as person staff report to)
+  * Employment contracts \(named as person staff report to\)
 
-    * Contract changes
+  * Contract changes
 
-    * Visa applications and coordination
+  * Visa applications and coordination
 
-    * Act as stewards for short term contractors
+  * Act as stewards for short term contractors
 
-    * Manage leave
+  * Manage leave
 
 * Board & Governance
 
-    * Liability - board is responsible for certain things that the coordinators execute, so there needs to be a good link between them. One coordinator is named as having a special focus on the relationship with the Board.
+  * Liability - board is responsible for certain things that the coordinators execute, so there needs to be a good link between them. One coordinator is named as having a special focus on the relationship with the Board.
 
-    * Ensure preparation and implementation of board decisions. Resource the board for decisions with background material, and interpret decision into operational changes.
+  * Ensure preparation and implementation of board decisions. Resource the board for decisions with background material, and interpret decision into operational changes.
 
-    * Budget - board approves the overall budget, and coordinators break it down into operational reality to achieve strategic outcomes, and prepare the budget based on planning (goals, activity, organisation and resources)
+  * Budget - board approves the overall budget, and coordinators break it down into operational reality to achieve strategic outcomes, and prepare the budget based on planning \(goals, activity, organisation and resources\)
 
-    * Receive Role support - extra support/accountability in addition to stewardship and sprint systems (chair of the board or external director or adviser provides coaching/mentoring)
+  * Receive Role support - extra support/accountability in addition to stewardship and sprint systems \(chair of the board or external director or adviser provides coaching/mentoring\)
 
-    * Coordinators attend board meeting to the extent necessary
+  * Coordinators attend board meeting to the extent necessary
 
-    * Maintain companies office responsibilities, such as share register, director changes, and annual report
+  * Maintain companies office responsibilities, such as share register, director changes, and annual report
 
-    *  Manage company secretary
+  * Manage company secretary
 
 * Create conditions to enable operational delivery
 
-    * Can delegate to a process (such as agile sprints), structure (like working groups) or person, or simply support self-management emerging from the team (if it’s working well). Coordinators make sure the system we're using is working.
+  * Can delegate to a process \(such as agile sprints\), structure \(like working groups\) or person, or simply support self-management emerging from the team \(if it’s working well\). Coordinators make sure the system we're using is working.
 
-    * Support operational delivery process development and quality improvements
+  * Support operational delivery process development and quality improvements
 
-    * Raise flags to the membership, board, teams, or individuals / stewards if there are problems with operational accountability or delivery
+  * Raise flags to the membership, board, teams, or individuals / stewards if there are problems with operational accountability or delivery
 
 * Coordinate annual/quarterly strategic planning process
 
-    * Ensure whatever meetings or processes needed are carried out
+  * Ensure whatever meetings or processes needed are carried out
 
-    * Synthesise, facilitate, report back, support decision-making 
+  * Synthesise, facilitate, report back, support decision-making
 
-    * Have one on one conversations as needed, to hear solutions and concerns
+  * Have one on one conversations as needed, to hear solutions and concerns
 
-    * Coordinate logistics and planning of retreats and away days
+  * Coordinate logistics and planning of retreats and away days
 
-    * Phsyical office management (lease, supplies, access, safety, mail)
+  * Phsyical office management \(lease, supplies, access, safety, mail\)
 
 * Membership
 
-    * Facilitate recommending new members when they reach that point in the pathway process
+  * Facilitate recommending new members when they reach that point in the pathway process
 
-    * Offboard leaving members
+  * Offboard leaving members
 
-    * Agree plan of action with members who need to go on leave (whether they hold onto their membership during that time, or relinquish it)
+  * Agree plan of action with members who need to go on leave \(whether they hold onto their membership during that time, or relinquish it\)
 
-    * Flag any eligibility concerns to the board (member in situation where they can’t meet shareholder duties)
+  * Flag any eligibility concerns to the board \(member in situation where they can’t meet shareholder duties\)
 
-    * Maintain accurate and up to date shareholding
+  * Maintain accurate and up to date shareholding
 
 * Oversee budgeting, finances, and assets
 
-    * Coordination of continuous financial operations
+  * Coordination of continuous financial operations
 
-    * Ensure accuracy of record keeping
+  * Ensure accuracy of record keeping
 
-    * Budget tracking
+  * Budget tracking
 
-    * Sign off GST returns
+  * Sign off GST returns
 
-    * Banking oversight
+  * Banking oversight
 
-    * Currency management for international accounts
+  * Currency management for international accounts
 
-    * Approve payments
+  * Approve payments
 
-    * Shareholding and investment paperwork
+  * Shareholding and investment paperwork
 
-    * Manage expense claims
+  * Manage expense claims
 
-    * Invoicing for Services contracts and special client arrangements
+  * Invoicing for Services contracts and special client arrangements
 
-    * Manage bookkeeper
+  * Manage bookkeeper
 
-    * Track Loomio points
+  * Track Loomio points
 
-    * Manage financial tools and systems
+  * Manage financial tools and systems
 
-    * Payroll management
+  * Payroll management
 
-    * Managing Loomio's assets, including IP and physical
+  * Managing Loomio's assets, including IP and physical
 
 * Other
 
-    * Facilitate policy development and implementation
+  * Facilitate policy development and implementation
 
-    * Catch the things planning doesn't account for or that fall between working groups
+  * Catch the things planning doesn't account for or that fall between working groups
 
-    * Making sure operational "must-do"s are actioned
- 
+  * Making sure operational "must-do"s are actioned
 
 
 

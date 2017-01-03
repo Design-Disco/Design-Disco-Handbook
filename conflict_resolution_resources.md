@@ -1,18 +1,19 @@
 # Conflict Resolution Resources
+
 These resources and guidelines may help prevent, process, or resolve conflict, and can support harmonious interaction.
 
-###Communication Methods to Promote Shared Understanding
+### Communication Methods to Promote Shared Understanding
 
 **Use “I Messages”**
- 
-Explain how you are affected by someone’s undesirable behavior (including feelings), from your own perspective and experience. Cite specific examples, and explain the consequences or reaction that resulted.
 
-*I felt frustrated when you missed the meeting without letting me know. We have a tight deadline and we’re unlikely to make it unless we make a decision immediately. What can we do to change this dynamic in the future?*
+Explain how you are affected by someone’s undesirable behavior \(including feelings\), from your own perspective and experience. Cite specific examples, and explain the consequences or reaction that resulted.
+
+_I felt frustrated when you missed the meeting without letting me know. We have a tight deadline and we’re unlikely to make it unless we make a decision immediately. What can we do to change this dynamic in the future?_
 
 **Non-defensive Assertions**
 
 It would be helpful for me if you would …
- 
+
 * Continue doing the following things
 * Do the following things more
 * Do the following things less
@@ -27,13 +28,13 @@ This is a helpful format for asking others to change their behavior in an assert
 2. why it matters to me 
 3. what is my wish
 
-**The Resolution Institute method**
-1. Get all the information and stories out on the table.
-2. Form an agenda of neutral points of conversation.
-3. Talk through each point giving them enough time they need.
-4. Take space & consider individually what your best and worst possible outcomes would be, and start dreaming about middle options which would be possible.
-5. Come together for a brainstorm of ways forward.
-6. Identify a set of top actions.
+**The Resolution Institute method**  
+1. Get all the information and stories out on the table.  
+2. Form an agenda of neutral points of conversation.  
+3. Talk through each point giving them enough time they need.  
+4. Take space & consider individually what your best and worst possible outcomes would be, and start dreaming about middle options which would be possible.  
+5. Come together for a brainstorm of ways forward.  
+6. Identify a set of top actions.  
 7. Agree on a plan for how to work together in the future.
 
 The key values of this process are:
@@ -43,7 +44,6 @@ The key values of this process are:
 * Taking space to focus on what’s important to you, what is your worst case scenario and why? What do you think the other person’s worst case scenario is and why? How do you think they’re feeling?
 * Sharing an ideation space as equals.
 * A strong facilitator for the first half, and much less intense facilitation in the second half.
-
 
 **Listen Looping**
 
@@ -61,7 +61,7 @@ One very important aspect to resolving conflict is making sure everyone feels he
 
 One helpful practice to understand a situation is to ask the parties involved to start by reporting only facts, without any emotional interpretation, or assumptions. If people disagree about the facts, then simply capture the differing factual accounts.
 
-Examples: 
+Examples:
 
 No: You didn’t turn up to the meeting we had scheduled because you didn’t care about the project.
 
@@ -75,14 +75,14 @@ After the facts have been reported, then discussions about how people felt and i
 
 **Decoding Emotions**
 
-A useful flowchart for processing a tension.
-![](process-emotion.png)
-*From the [Like Humans: Tension Processing](http://likehumans.com/tension-processing/) guide*
-
+A useful flowchart for processing a tension.  
+![](process-emotion.png)  
+_From the _[_Like Humans: Tension Processing_](http://likehumans.com/tension-processing/)_ guide_
 
 **External Resources**
 
-* Employment New Zealand [minimum employment rights](http://employment.govt.nz/er/minimumrights/index.asp)
 * [Ladder of Inference](http://www.mindtools.com/pages/article/newTMC_91.htm) 
 * [The Resolution Institute](https://www.resolution.institute/)
-* Department of Labour [mediation services](http://employment.govt.nz/er/solvingproblems/resolving/mediation.asp)
+
+
+
