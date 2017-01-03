@@ -1,15 +1,20 @@
 # Inspiration & Resources
 
+{ Cool stuff here already! we can make it more our own and maybe learn from some of this }
+
+
+
+**Loomio's things bellow:**
+
 ## Books
 
-* [*Companies We Keep*](https://www.chelseagreen.com/companies-we-keep) by John Abrams about his experience handing his building company over to worker control
-* [*Reinventing Organisations*](http://www.reinventingorganizations.com) by Frederic Laloux documenting the new wave of horizontal organisations
-* [*Starting a Coop, One Step at a Time*](http://huia.coop/), by Huia Coop
-
+* [_Companies We Keep_](https://www.chelseagreen.com/companies-we-keep) by John Abrams about his experience handing his building company over to worker control
+* [_Reinventing Organisations_](http://www.reinventingorganizations.com) by Frederic Laloux documenting the new wave of horizontal organisations
+* [_Starting a Coop, One Step at a Time_](http://huia.coop/), by Huia Coop
 
 ## Other company handbooks
 
-Loomio is part of the Enspiral network. Check out the [Enspiral handbook](http://handbook.enspiral.com) for more open source organisational goodness. 
+Loomio is part of the Enspiral network. Check out the [Enspiral handbook](http://handbook.enspiral.com) for more open source organisational goodness.
 
 Other handbooks:
 
@@ -33,3 +38,4 @@ Other handbooks:
 ## Add to this list
 
 If you have resources you'd like to add to this list, please email rich@loomio.org or [@richdecibels](http://twitter.com/richdecibels) on Twitter. Or make a pull request [on Github](https://github.com/loomio/loomio-coop-handbook).
+
