@@ -33,7 +33,7 @@ Feel free to contact [@richdecibels](https://twitter.com/richdecibels) on Twitte
 
 ## About this handbook
 
-If you find this handbook helpful in your work, please [let us know](https://loomio.org/contact). We'd love to hear from you. 🐌
+If you find this handbook helpful in your work, please [let us know](hello@designdis.co). We'd love to hear from you. 🐌
 
 <img src="https://i.creativecommons.org/l/by-sa/3.0/88x31.png" class="img-right" alt="Creative Commons License" />
 
