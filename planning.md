@@ -1,5 +1,11 @@
 # Planning
 
+{ I think planning is a good section to have for us as well, probably looking a little different from theirs. }
+
+
+
+**All bellow is Loomio:**
+
 ## Annual
 
 We do annual planning so everyone is focused on the same thing, and all the different areas of our work add up to a coherent and coordinated whole.
@@ -17,10 +23,9 @@ We discussed how we can break this work up into streams, based on the groups of 
 * we want to support our **customers** to use Loomio to make a positive impact in their workplaces and communities
 * and we want to nurture our **team** of amazing humans to feel awesome in their work
 
-
 ## Quarterly
 
-Every quarter, we have an away day (preceded and followed by various preparation and workshops), where we take stock of where we are relative to our overall vision, annual plan, and emerging reality, and decide what to focus on for the coming 3 months. This allows us to update our understanding of our annual plan as we learn more, and the world changes, and adjust course accordingly.
+Every quarter, we have an away day \(preceded and followed by various preparation and workshops\), where we take stock of where we are relative to our overall vision, annual plan, and emerging reality, and decide what to focus on for the coming 3 months. This allows us to update our understanding of our annual plan as we learn more, and the world changes, and adjust course accordingly.
 
 Quarterly plans take a range of forms, depending on the circumstances and needs of the team. Usually we end up with a more in-depth document, accompanied by an easily accessible summary.
 
@@ -37,9 +42,9 @@ The goal is to provide a guiding focus for all our work across the team. Because
 * working groups convene and discuss what they accomplished that quarter, and what they've learned
 * evidence, data, and metrics are gathered
 * the coordinators write a quarterly report giving an assessment of how we did achieving our previous quarterly goals and where we're at with the overall plan
-* everyone individually reflects on what happened over the quarter and what they think about upcoming priorities (sometimes informally, sometimes we send out a survey)
+* everyone individually reflects on what happened over the quarter and what they think about upcoming priorities \(sometimes informally, sometimes we send out a survey\)
 
-### Away Day (Offsite)
+### Away Day \(Offsite\)
 
 While we leave room for flexibility in the agenda and facilitation, this is a format we've generally found works for us.
 
@@ -56,3 +61,6 @@ While we leave room for flexibility in the agenda and facilitation, this is a fo
 * Coordinators synthesise the outcomes of the away day and reflect them back to the team
 * Discuss and work toward agreeing the quarterly goals on officially on Loomio
 * The team gets to work delivering our targets for the quarter
+
+
+

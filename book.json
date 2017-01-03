@@ -1,7 +1,4 @@
 {
-    "styles": {
-        "website": "styles/website.css"
-    },
     "plugins": [
         "collapsible-menu",
         "video",
@@ -15,6 +12,14 @@
             "configuration": {
                 "alwaysSendReferrer": true
             }
+        },
+        "fontsettings": {
+            "theme": "white",
+            "family": "sans",
+            "size": 2
         }
+    },
+    "styles": {
+        "website": "styles/website.css"
     }
 }

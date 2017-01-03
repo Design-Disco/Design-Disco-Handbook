@@ -1,6 +1,12 @@
 # Working together
 
-## We use rhythms to balance freedom and focus
+{ some guidelines and principles for working together }
+
+
+
+this all bellow is from Loomio....
+
+## "We use rhythms to balance freedom and focus
 
 * our [purpose](purpose_and_vision.html) is our forever reason for being
 * we do [strategy](strategy.html) to tell stories from 3 years in the future
@@ -8,7 +14,6 @@
 * we run [two-week sprints](sprints.html) to maintain agility, clarity, and accountability
 * we self-organise into dynamic [working groups](working_groups.html) to address areas of work
 * we have a collaborative process to [prioritise product development](product_prioritisation.html)
-
 
 ## The evolution of our organisational structure
 
@@ -34,4 +39,5 @@ Then we evolved again, and became a fully agile team. We had always drawn on ele
 
 Every 3 months we stop and reassess the team makeup, the coordinators, and the budget to check: are we still making the absolute best use of this money that’s been entrusted to us? This made us super adaptive and efficient, but of course it was really disruptive too.
 
-In late 2015 we [raised money from impact investors](http://yesmagazine.org/new-economy/how-a-worker-owned-tech-startup-found-investors-and-kept-its-values-20160426), which finally brought us to a level of financial security where we could think more than 3 months ahead. This has enabled us to thinking long-term, resource a solid core team, and settle into a set of functional processes that address different perspectives and time-scales of our work.
+In late 2015 we [raised money from impact investors](http://yesmagazine.org/new-economy/how-a-worker-owned-tech-startup-found-investors-and-kept-its-values-20160426), which finally brought us to a level of financial security where we could think more than 3 months ahead. This has enabled us to thinking long-term, resource a solid core team, and settle into a set of functional processes that address different perspectives and time-scales of our work."
+
