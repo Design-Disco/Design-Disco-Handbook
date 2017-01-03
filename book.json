@@ -1,0 +1,20 @@
+{
+    "styles": {
+        "website": "styles/website.css"
+    },
+    "plugins": [
+        "collapsible-menu",
+        "video",
+        "ga",
+        "youtube",
+        "anchors"
+    ],
+    "pluginsConfig": {
+        "ga": {
+            "token": "UA-31046122-1",
+            "configuration": {
+                "alwaysSendReferrer": true
+            }
+        }
+    }
+}
