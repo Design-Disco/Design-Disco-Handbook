@@ -4,7 +4,7 @@
 * [Our Cooperative](our_cooperative.md)
     * [History](history.md)
     * [Mission & Vision](purpose_and_vision.md)
-    * [Organization Principles](cooperative_principles.md)
+    * [Organization Principles](organization_principles.md)
     * [Governance](governance.md)
 * [Working together](working_together.md)
     * [Planning](planning.md)
