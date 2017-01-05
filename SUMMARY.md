@@ -7,6 +7,7 @@
     * [Organization Principles](organization_principles.md)
     * [Governance](governance.md)
 * [Working together](working_together.md)
+    * [Meeting](Meeting.md)
     * [Planning](planning.md)
     * [Coordination](coordination.md)
     * [Working Groups](working_groups.md)
