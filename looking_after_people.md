@@ -2,7 +2,7 @@
 
 { I think we can basically agree with most of this stuff, right? }
 
-
+bla bal bla
 
 **What loomio wrote bellow:**
 
