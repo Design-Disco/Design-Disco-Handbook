@@ -20,7 +20,7 @@ Bachir Benkirane, Program Director
 
 Ani Bojadžjan, Finance Director
 
-Nastya Lavrova, Curriculum Designer
+Anastasia Lavrova, Curriculum Designer
 
 Kasimir Suter Winter, Program Manager, Outreach
 
