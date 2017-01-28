@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [Our Organization](our_cooperative.md)
+* [Our Organization](our_organization.md)
   * [History](history.md)
   * [Mission & Vision](purpose_and_vision.md)
   * [Organization Principles](organization_principles.md)
@@ -26,4 +26,6 @@
   * [The Loomio Way \(Brand Guidelines\)](brand_guidelines.md)
   * [Collaborative Funding](collaborative_funding.md)
   * [Inspiration](inspiration.md)
+
+
 
