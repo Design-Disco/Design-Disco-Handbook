@@ -1,37 +1,15 @@
 ## The Design Disco Handbook
+Design Disco is a group of people who do things. Ra raa ra ra ra.
 
-Here are notes, links and an intro to writing an Open Source handbook.
 
-Why Open Source?
+[TAKEN FROM WEBSITE] 
+_Design Disco is a non-profit design education organization based in Prague, Czech Republic geared towards high school students. Run by young designers, we host various short-term and long-term design programs to inspire creativity to the younger generation. Our instructors come from various backgrounds in design: architecture, landscape architecture, graphic design, architecture theory, product design, and web design._
 
-Collective knowledge is greater than that of any invidividual. People who write rules are more likely to follow them. People who do not follow rules usually have a reason and it is always worth finding that out. When you give people the oportunity to be responsible they will rise to the ocasion. And an open Handbook can constantly change and evolve so that it does not become stale and outdated.
+_Design Disco was formed in 2014 by ARCHIP students Jason and Ben, who shared the same belief that young people from all backgrounds — not just those who can afford it — should have equal access to discover their creative potential, empowering them to incorporate design into their academic pursuits and everyday lives._ _
 
-"How we see people is how we treat them, and how we treat them is who they become" -Johann Wolfgang von Goethe
-
----
-
-<div class="video-wrapper">
-  <iframe src="https://www.youtube.com/embed/EXkQN9aL0R0" frameborder="0" allowfullscreen></iframe>
-</div>
-
-*[VIDEO](https://www.youtube.com/watch?v=EXkQN9aL0R0): Loomio co-founder Alanna introducing the co-op handbook, and talking about why we open source our organisational development.*
-
-<div class="mobile-visible">
-  <p>If you're viewing this on a small screen, you'll find a table of contents by clicking the menu icon at the top left. <i class="fa fa-align-justify"></i></p>
-</div>
-
-## Other stories about developing an open organisation
-
-Besides this handbook, Alanna and Rich have written a bunch of stories based on their experience as two of the Loomio co-founders. Here's a couple:
-
-* [Beyond “Dreamers vs Doers” — Full Circle Leadership](https://medium.com/enspiral-tales/beyond-dreamers-vs-doers-full-circle-leadership-869557da1248#.4h7ilp3w4)
-* [How to Grow Distributed Leadership](https://medium.com/enspiral-tales/how-to-grow-distributed-leadership-7f6b25f0361c)
-* [Bootstrapping a Bossless Organisation in 3 Easy Steps ;-)](https://medium.com/enspiral-tales/bootstrapping-a-bossless-organisation-in-3-easy-steps-afc653e8f5e6#.wdnoa4f4x)
-* [A Caring Organisation: Feelings, Magic & Gendered work](https://medium.com/enspiral-tales/a-caring-organisation-5319f81c420f#.sqwbtbqwt)
-
-Feel free to contact [@richdecibels](https://twitter.com/richdecibels) on Twitter if you want to chat about this stuff 💅
 
 ## About this handbook
+This handbook serves two purposes. To provide an operational structure for existing Design Disco members and to provide an introduction to new members. Ra ra ra. 
 
 If you find this handbook helpful in your work, please [let us know](hello@designdis.co). We'd love to hear from you. 🐌
 
