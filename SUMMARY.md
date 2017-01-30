@@ -10,10 +10,8 @@
   * [Meeting](Meeting.md)
   * [Planning](planning.md)
   * [Coordination](coordination.md)
-  * [Working Groups](working_groups.md)
   * [Communications tools](communications.md)
   * [Marketing tools](marketing_tools.md)
-  * [Dev tools\*](dev_tools.md)
 * [Looking after people](looking_after_people.md)
   * [Professional Development](professional_development.md)
   * [Conflict Resolution Resources](conflict_resolution_resources.md)
@@ -23,8 +21,7 @@
   * [Employment](employment.md)
   * [Staff Onboarding](staff_onboarding.md)
 * [Other Guides](guides.md)
-  * [The Loomio Way \(Brand Guidelines\)](brand_guidelines.md)
-  * [Collaborative Funding](collaborative_funding.md)
+  * [The Design Disco Way \(Brand Guidelines\)](brand_guidelines.md)
   * [Inspiration](inspiration.md)
 
 
