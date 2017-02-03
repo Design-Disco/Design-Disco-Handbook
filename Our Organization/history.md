@@ -4,4 +4,4 @@ Design Disco was formed in 2014 by ARCHIP students Jason and Ben, who shared the
 
 We have participants from:
 
-![](/assets/Screen Shot 2017-01-28 at 1.20.14 pm.png)
+![](/our organization/Screen Shot 2017-01-28 at 1.20.14 pm.png)
