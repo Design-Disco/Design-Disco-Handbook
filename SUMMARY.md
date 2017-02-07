@@ -18,9 +18,9 @@
   * [Retreats](Looking after people/retreats.md)
   * [Staff Wellbeing Budget](Looking after people/staff_wellbeing_budget.md)
 * [Employment & Membership](Employment & Membership/employment_and_membership.md)
-  * [Employment](Employment & Membership/employment.md)
-  * [Staff Onboarding](Employment & Membership/staff_onboarding.md)
-* [Other Guides](Other Guides/Employment & Membership/guides.md)
+  * [Employment](Employment and Membership/employment.md)
+  * [Staff Onboarding](Employment and Membership/staff_onboarding.md)
+* [Other Guides](Other Guides/Employment and  Membership/guides.md)
   * [The Design Disco Way \(Brand Guidelines\)](Other Guides/brand_guidelines.md)
   * [Inspiration](Other Guides/inspiration.md)
 
